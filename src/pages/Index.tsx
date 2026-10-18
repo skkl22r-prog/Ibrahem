@@ -263,7 +263,7 @@ const Index = () => {
                     color: "#FFFFFF",
                   }}
                 >
-                  <span>الاثنين</span>
+                  <span>23</span>
 
                   <span className="text-sm font-extrabold">
                     نوفمبر
@@ -280,7 +280,7 @@ const Index = () => {
                     className="font-display text-4xl font-extrabold tracking-tight"
                     style={{ color: "#5F4F41" }}
                   >
-                    23
+                    13
                   </div>
 
                   <div
