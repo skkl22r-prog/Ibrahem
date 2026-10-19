@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 
 // 🎵 استيراد ملف الصوت
-import bgMusic from "@/assets/T.m4a";
+import bgMusic from "@/assets/music.m4a";
 
 interface NavigationDockProps {
   active: boolean;
